@@ -15,6 +15,7 @@
 > - React Router - Routing between different web pages.
 > - React Query - Improved performance for backend CRUD operations.
 > - Flowbite - Reduced development time and professional looking UI.
+> - Tailwind - Quicker and uniform styling.
 
 ## Pages
 
